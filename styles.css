@@ -76,6 +76,7 @@ nav ul li a:active {
     color: #0056b3; /* Dark blue on active */
 }
 
+/* Sidebar Menu */
 #sidebar-menu {
     display: flex;
     position: relative;
